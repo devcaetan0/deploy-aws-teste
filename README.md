@@ -15,7 +15,7 @@ system is comprised of a client application and a standalone server. The system 
 The server is currently not deployed, There is no session state to track or external calls to make so the server architecture should respond well to simple horizontal scaling. As there is expected to be a constrained set of client keys.
 
 That's it for hints.
-
+ 
 
 ### Scope
 
